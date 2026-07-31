@@ -2,7 +2,7 @@
 title: CB-Essay in the Wild
 order: 20
 byline: Various Authors
-part: Overview and Examples
+part: CB-Essay Materials
 ---
 
 
